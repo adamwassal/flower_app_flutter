@@ -1,4 +1,4 @@
-# 🌸 Flower App Ecommerce
+# 💻 Laptop App Ecommerce
 
 A modern and elegant **Flutter e-commerce app** designed for flower shopping. The UI is clean, responsive, and optimized for a smooth user experience.
 
@@ -16,7 +16,7 @@ A modern and elegant **Flutter e-commerce app** designed for flower shopping. Th
 
 ## ✨ Features
 
-- 🛒 Browse a collection of flowers with beautiful product cards
+- 🛒 Browse a collection of laptop with beautiful product cards
 - 📦 Add products to cart
 - 💳 Simple checkout UI
 
